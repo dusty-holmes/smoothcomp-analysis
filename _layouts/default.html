@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      max-width: 1100px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      margin: 20px 0;
+    }
+
+    h1, h2, h3 {
+      margin-top: 40px;
+    }
+
+    nav {
+      margin-bottom: 40px;
+    }
+
+    nav a {
+      margin-right: 15px;
+      text-decoration: none;
+      color: #0366d6;
+    }
+  </style>
+</head>
+
+<body>
+
+<nav>
+  <a href="/">Home</a>
+  <a href="/about/">About</a>
+</nav>
+
+{{ content }}
+
+</body>
+</html>
