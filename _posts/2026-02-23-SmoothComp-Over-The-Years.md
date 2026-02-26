@@ -31,6 +31,8 @@ incomplete results, including private events and matches without a recorded winn
 
 ![Monthly Volume]({{ 'assets/images/2026-02-23/fig01-total-Match-Overview.png' | relative_url }})
 
+![Monthly Volume]({{ site.baseurl }}/assets/images/2026-02-23/fig01-total-Match-Overview.png)
+
 The chart shows the number of events and total matches by month, as well as a 12 month rolling average to show the overall trend. Both the number of competitions and the 
 total number of matches have increased steadily over time. While there are predictable seasonal fluctuations, the long-term trend is clearly upward.  By the end of 2025,
 Smoothcomp is hosting close to 100 events and 40,000 matches per month with no signs of slowing down.
