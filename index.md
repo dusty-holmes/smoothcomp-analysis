@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Smoothcomp Analysis
+permalink: /
 ---
 
 # Smoothcomp Analysis
