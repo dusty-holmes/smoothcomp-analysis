@@ -7,12 +7,15 @@ categories: jekyll update
 # Smoothcomp Over The Years
 
 ## Introduction
-Smoothcomp has become one of the primary platforms for organizing and registering Brazilian Jiu-Jitsu competitions around the world. Over more than a decade of operation, it has facilitated tens of thousands of events and millions of individual matches across gi, no-gi, youth, adult, masters, and professional divisions.
+Smoothcomp has become one of the primary platforms for organizing and registering Brazilian Jiu-Jitsu competitions around the world. Over more than a decade of operation, 
+it has facilitated tens of thousands of events and millions of individual matches across gi, no-gi, youth, adult, and masters.
 
-That scale makes it more than just a registration tool — it’s effectively a living record of modern competitive jiu-jitsu.
+That scale makes it more than just a registration tool — it’s one of the best and most complete records of the modern competitive jiu-jitsu.
 
-In this project, I explore what that record actually looks like. How has match volume changed over time? 
-How many athletes are competing each year? Are certain regions or federations growing faster than others?
+In this project, I explore what that record actually looks like. 
+How has match volume changed over time? 
+How many athletes are competing each year? 
+Are certain regions or federations growing faster than others?
 What does the competitive landscape really look like beneath the surface?
 
 This first post is an overview of the data itself — a high-level look at trends, scale, and structure.
@@ -27,13 +30,15 @@ incomplete results, including private events and matches without a recorded winn
 
 ---
 
-## The Dataset (High-Level Overview)
+## How Many Events Are There?
 
 ![Monthly Volume]({{ 'assets/images/2026-02-23/fig01-total-Match-Overview.png' | relative_url }})
 
-The chart shows the number of events and total matches by month, as well as a 12 month rolling average to show the overall trend. Both the number of competitions and the 
-total number of matches have increased steadily over time. While there are predictable seasonal fluctuations, the long-term trend is clearly upward.  By the end of 2025,
-Smoothcomp is hosting close to 100 events and 40,000 matches per month with no signs of slowing down.
+The chart shows the number of events by month, average number of matches per event, as well as a 12 month rolling averages to show the overall trend. Aside from the pandemic years, 
+the number of competitions have increased steadily over time reaching over 80 competitions a month. The average number of matches per event usually sits around 400 matches, but has 
+been steadily declining over the past few years.  This could be from an increase in new competitions and not from existing events getting smaller.  There was a spike from 2021-2022 in event
+size, averaging closer to 500 matches per event. This bump up in size directly follows the dip in number of events in 2020-2021.  This suggests that many of the larger events were the first
+to start offering events again and athletes were eager to get back on the mats!
 
 **Takeaway:**
 Brazilian Jiu-Jitsu has seen steady growth for almost a decade. Today athletes have many more events and opportunities for matches, and it only looks like it will continue to grow 
@@ -94,23 +99,8 @@ of age. The previous chart showed that no-gi is slightly more popular than gi in
 
 ---
 
-## Limitations & Future Work
-
-This analysis focuses on outcomes visible in competition data. Future
-extensions could explore:
-- Longitudinal athlete tracking
-- Rank progression over time
-- Match-level technical patterns
-- Gym-level effects
-
-Individual sections of this report will be expanded into standalone
-analyses in future updates.
-
----
-
 ## Summary
 
-Competition is not a shortcut to mastery, but the data suggests it
-plays a meaningful role in athlete development. For those on the
-fence, competing earlier and more consistently may provide valuable
-experience—regardless of immediate results.
+Brazilian Jiu-Jitsu competition has grown steadily year over year, reaching more than 80 events and 30,000 matches per month by 2026, with no clear signs of slowing. Match distribution is heavily concentrated in beginner divisions, with total match counts declining consistently at each higher belt level. A relatively small number of major federations drive a significant share of this growth — organizations like **Grappling Industries** have hosted hundreds of events, while large **ADCC** tournaments can generate over 1,600 matches in a single competition.
+
+Adult divisions account for the largest portion of total matches, with youth divisions not far behind, while masters divisions represent only a small fraction of overall participation. And despite frequent claims to the contrary, the Gi is not disappearing — it remains more popular than No-Gi, though the gap is narrowing as No-Gi continues to grow rapidly.
