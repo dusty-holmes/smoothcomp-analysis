@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Smoothcomp Over the Years"
+title:  "1. An Overview of Smoothcomp"
 date:   2026-02-23 
 categories: jekyll update
 ---
@@ -54,12 +54,18 @@ going forward.
 within the dataset (I'm working on it).
 
 Matches on Smoothcomp are heavily biased towards lower skill levels.  For no-gi matches, each jump in skill level approximately cuts the total number of matches in half.
-Gi matches are similar if purple, brown, and black divisions were combined like they are in no-gi.
-Interestingly, black belt gi matches are much higher than brown belt matches, which has the least total matches out of any skill level
+There appears to be a bigger drop off after blue belt in gi, but if purple, brown, and black were all grouped like advanced is for no-gi, the numbers would be more consistent.
+
+The absolute division appears to make up a larger share of No-Gi matches than Gi matches, which may reflect stylistic differences between the formats. Without the friction and grip advantages of the Gi, 
+No-Gi tends to reward pace, scrambling ability, and overall athleticism, potentially lowering the barrier for competitors to feel competitive across weight classes. In contrast, the Gi’s emphasis on 
+grips and positional control may amplify the technical advantages of size and experience, making weight classes more strategically important. Leg locks may also play a part in neutralizing any advantage that size gives.
 
 **Takeaway:**
 Most competitions favor beginner skill levels.  If you are new and looking to compete, you will be competing alongside many peers at the same experience level. If the goal 
-is a long competitive career with many matches, start early in beginner divisions when brackets are large and matches are easy to come by.
+is a long competitive career with many matches, start early in beginner divisions when brackets are large and matches are easy to come by. 
+
+Further analysis of the absolute division is necessary to understand the increaded popularity in no-gi. A breakdown of weight and skill level of absolute athletes in gi vs no-gi could shed some light on how big (or small)
+size differences in competitors plays in gi vs no-gi matches. 
 
 ## Who are the biggest Federations?
 
