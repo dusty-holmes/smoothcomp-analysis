@@ -20,7 +20,9 @@ Recent activity matters too: athletes who have more matches in the **past six mo
 
 Finally, **the number of teammates** at an event subtly affects submission outcomes, highlighting how team composition can impact results even when overall win rates stay similar.
 
-**NOTE:** All analysis is based on publicly available historical match data. A small number of matches are excluded due to incomplete results or limited visibility, but the dataset covers the vast majority of recorded competitions.
+**NOTE:** All analysis is based on publicly available historical match data. 
+A small number of matches are excluded due to incomplete results or limited visibility, but the dataset covers the vast majority of recorded competitions. 
+Match and event data are collected for events in the USA only and for years 2017-2025.
 
 
 ---
