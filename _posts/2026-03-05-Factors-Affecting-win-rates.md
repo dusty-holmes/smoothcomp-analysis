@@ -22,7 +22,7 @@ due to limited visibility or incomplete results, including private events and ma
 
 ## Improvement 1: Compete More Often
 
-![Monthly Volume]({{ 'assets\images\2026-03-05\fig01-stats_by_event_index.png' | relative_url }})
+![Monthly Volume]({{ 'assets/images/2026-03-05/fig01-stats_by_event_index.png' | relative_url }})
 
 This chart shows how match outcomes change as athletes gain more competition experience.
 The x-axis groups athletes by which event they are competing in (first event, second event, third or fourth event, etc.).
@@ -46,7 +46,7 @@ stage of competition experience.
 
 ## Improvement 2: Compete in Absolute
 
-![Absolute]({{ 'assets\images\2026-03-05\fig02-stats_by_absolute.png' | relative_url }})
+![Absolute]({{ 'assets/images/2026-03-05/fig02-stats_by_absolute.png' | relative_url }})
 
 This chart shows what effect competing in the absolute division has on win and loss rates.
 
@@ -55,12 +55,13 @@ to athletes who have entered once, 2–3 times, or more than 3 competitions in a
 
 The figure has two panels:
 
-- The left panel shows **match outcome rates**: overall wins, wins by submission, and losses by submission.  
-- The right panel shows the **total number of matches** where an athlete has competed in **absolute** the specified number of times.
+- The left panel shows match outcome rates: overall wins, wins by submission, and losses by submission.  
+- The right panel shows the number of athletes grouped by number of absolute bracket entries. 
+
 
 ### Most Athletes Avoid Absolute
 
-Approximately **81%** of matches are from athletes who have never competed in the absolute division. Of the **19%** who have, most 
+Approximately **91%** of athletes never competed in the absolute division. Of the **9%** who have competed, about **70%** compete exactly once. 
 continue to compete in absolute beyond their first event.
 
 ### Win Rate Increases 
@@ -75,7 +76,7 @@ every additional competition entered.
 ---
 ## Improvement 3: Compete in Gi and No-Gi (But mostly No-Gi)
 
-![stats by style]({{ 'assets\images\2026-03-05\fig03-stats_by_style.png' | relative_url }})
+![stats by style]({{ 'assets/images/2026-03-05/fig03-stats_by_style.png' | relative_url }})
 
 ### How Athletes Are Grouped by Gi vs No-Gi Events
 
@@ -105,12 +106,12 @@ the least successful as well. Athletes in either specialist categories would imp
 ---
 ## Improvement 4: Compete Often 
 
-![Skill Distribution]({{ 'assets\images\2026-03-05\fig04-stats_by_period_180.png' | relative_url }})
+![Skill Distribution]({{ 'assets/images/2026-03-05/fig04-stats_by_period_180.png' | relative_url }})
 
 ---
 
 ## Improvement 5: Beware the Lone Wolf
 
-![teammates]({{ 'assets\images\2026-03-05\fig05-sub_win_gap_by_teammates.png' | relative_url }})
+![teammates]({{ 'assets/images/2026-03-05/fig05-sub_win_gap_by_teammates.png' | relative_url }})
 
 ## Summary
